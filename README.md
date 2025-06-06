@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Sanjay
+💻 Aspiring Cybersecurity Professional | NCFE Level 2 Certificate in the Principles of Cyber Security Complete | Level 3 in Progress  
+🔐 Building strong foundations across networking, Linux, and security principles
 
-<!--
-**Sanjay-Hacking/Sanjay-Hacking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 📘 Currently following a 16-week cybersecurity roadmap with hands-on labs
+- 🎯 Preparing for the **CompTIA Security+** exam and **NCFE Level 3 Certificate**
+- 🧰 Labs and tools: Kali Linux, Wireshark, Nmap, Netcat, TryHackMe
+- ✍️ Logging my progress weekly to stay sharp and reflect on what I learn
 
-Here are some ideas to get you started:
+## 🧠 Current Learning Focus
+- Understanding the OSI model and how networks communicate  
+- Practicing Linux CLI and scripting basics  
+- Developing critical thinking through real-world TryHackMe rooms
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Find Me Elsewhere
+- 💼 LinkedIn: https://www.linkedin.com/in/sanjayraj-shakha
+- 🧪 TryHackMe: https://tryhackme.com/p/petriburg 
+- 📒 Cyber Learning Log (coming soon 😀)
+
+## 🔭 Projects & Labs Coming Soon
+- Security scanning examples with Nmap  
+- Packet captures and analysis using Wireshark  
+- My first Bash script!
+
+---
+
+*Thanks for stopping by. Let’s connect and learn together!*
+
