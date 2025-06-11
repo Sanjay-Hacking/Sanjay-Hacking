@@ -1,4 +1,5 @@
 # 👋 Hi, I'm Sanjay
+
 💻 Aspiring Cybersecurity Professional | NCFE Level 2 Certificate in the Principles of Cyber Security Complete | Level 3 in Progress  
 🔐 Building strong foundations across networking, Linux, and security principles
 
@@ -23,7 +24,15 @@
 - Packet captures and analysis using Wireshark  
 - My first Bash script!
 
----
+### 🚀 Progress Highlights So Far:
+- 🧠 Completed 10+ hands-on **TryHackMe rooms** (Networking, DNS, HTTP, Linux Fundamentals)
+- 💻 Built a custom cyber lab at home: **Kali Linux on UTM**, core tools (Nmap, Netcat, Wireshark), MacOS integration
+- 📘 Studied **Security+ Domain 1–2** topics with Professor Messer videos & Anki flashcards
+- 📝 Maintaining a daily **learning log** and reflecting to improve memory and retention
+- 🌱 Building this GitHub as a live showcase of my journey, notes, and practical labs
+
+  I’m learning out loud, and this space will grow with me — from theory to tools to real-world experience.
+
 
 *Thanks for stopping by. Let’s connect and learn together!*
 
