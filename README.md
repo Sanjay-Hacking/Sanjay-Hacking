@@ -25,7 +25,7 @@
 - My first Bash script!
 
 ### 🚀 Progress Highlights So Far:
-- 🧠 Completed 10+ hands-on **TryHackMe rooms** (Networking, DNS, HTTP, Linux Fundamentals)
+- 🧠 Completed 13+ hands-on **TryHackMe rooms** (Networking, DNS, HTTP, Linux Fundamentals)
 - 💻 Built a custom cyber lab at home: **Kali Linux on UTM**, core tools (Nmap, Netcat, Wireshark), MacOS integration
 - 📘 Studied **Security+ Domain 1–2** topics with Professor Messer videos & Anki flashcards
 - 📝 Maintaining a daily **learning log** and reflecting to improve memory and retention
