@@ -34,5 +34,5 @@
   I’m learning out loud, and this space will grow with me — from theory to tools to real-world experience.
 
 
-*Thanks for stopping by. Let’s connect and learn together!*
+*Thanks for stopping by. I'm documenting my journey from beginner to Cyber Security pro - let’s connect and learn together!*
 
