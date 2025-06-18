@@ -16,7 +16,7 @@
 
 ## 🌐 Find Me Elsewhere
 - 💼 LinkedIn: https://www.linkedin.com/in/sanjayraj-shakha
-- 🧪 TryHackMe: https://tryhackme.com/p/petriburg 
+- 🧪 TryHackMe: https://tryhackme.com/p/SanjayHacking
 - 📒 Cyber Learning Log (coming soon 😀)
 
 ## 🔭 Projects & Labs Coming Soon
