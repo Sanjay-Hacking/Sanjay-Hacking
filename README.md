@@ -31,7 +31,7 @@
 - 📝 Maintaining a daily **learning log** and reflecting to improve memory and retention
 - 🌱 Building this GitHub as a live showcase of my journey, notes, and practical labs
 - 👨🏽‍🎓 First bash script:
-- [sysinfo.sh](https://github.com/Sanjay-Hacking/your-repo-name/blob/main/sysinfo.sh) – A basic script showing system info like user, uptime, memory, and disk usage
+- [sysinfo.sh](https://github.com/Sanjay-Hacking/Sanjay-Hacking/blob/main/scripts/sysinfo.sh) – A basic script showing system info like user, uptime, memory, and disk usage
 
   I’m learning out loud, and this space will grow with me — from theory to tools to real-world experience.
 
