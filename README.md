@@ -33,8 +33,25 @@
 - 👨🏽‍🎓 First bash script:
 - [sysinfo.sh](https://github.com/Sanjay-Hacking/Sanjay-Hacking/blob/main/scripts/sysinfo.sh) – A basic script showing system info like user, uptime, memory, and disk usage
 
-  I’m learning out loud, and this space will grow with me — from theory to tools to real-world experience.
+## 🏁 Milestone Unlocked: TryHackMe Pre-Security Path Complete!
 
+I’ve officially completed the entire **TryHackMe Pre-Security Learning Path**, a guided journey through the core concepts every cybersecurity learner should master.
+
+🧩 Topics Covered:
+- Networking basics, DNS, HTTP, and packets & frames
+- OSI model and how the web works
+- Linux fundamentals (Parts 1–3) with command-line hands-on practice
+- Windows fundamentals (Parts 1–3)
+- Bash scripting & file permissions
+
+🧠 This experience has helped me:
+- Build confidence with Linux and terminal-based workflows
+- Understand network traffic, protocols, and how systems communicate
+- Prepare for more advanced hands-on rooms and real-world scenarios
+
+📍 What’s Next: Starting **THM Junior Penetration Tester** path + continuing my 16-week roadmap with GitHub projects, Anki flashcards, and scripting labs.
+
+  I’m learning out loud, and this space will grow with me — from theory to tools to real-world experience.
 
 *Thanks for stopping by. I'm documenting my journey from beginner to Cyber Security pro - let’s connect and learn together!*
 
