@@ -1,3 +1,6 @@
+![Skills Used](https://img.shields.io/badge/Skills-Nmap%20%7C%20DNS%20%7C%20WHOIS%20%7C%20Reconnaissance-blue?style=for-the-badge)
+
+
 🕵️‍♂️ Web Reconnaissance Report
 
 Target: scanme.nmap.org
