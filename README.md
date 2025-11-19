@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Sanjay
 
-💻 Aspiring Cybersecurity Professional | NCFE Level 2 Certificate in the Principles of Cyber Security Complete | Level 3 in Progress  
+💻 Aspiring Cybersecurity Professional | NCFE Level 2 & Level 3 Certificate in the Principles of Cyber Security Complete  
 🔐 Building strong foundations across networking, Linux, and security principles
 
 ## 🚀 About Me
-- 📘 Currently following a 16-week cybersecurity roadmap with hands-on labs
-- 🎯 Preparing for the **CompTIA Security+** exam and **NCFE Level 3 Certificate**
+- 📘 Currently following a cyber security roadmap with hands-on labs
+- 🎯 Preparing for the **CompTIA Security+** exam
 - 🧰 Labs and tools: Kali Linux, Wireshark, Nmap, Netcat, TryHackMe
 - ✍️ Logging my progress weekly to stay sharp and reflect on what I learn
 
@@ -25,7 +25,7 @@
 - My first Bash script! Completed on Thursday 19 June 2025 🥳 (see details under 'Progress Highlights So Far'
 
 ### 🚀 Progress Highlights So Far:
-- 🧠 Completed 25+ hands-on **TryHackMe rooms** (Networking, DNS, HTTP, Linux & Windows Fundamentals)
+- 🧠 Completed 30+ hands-on **TryHackMe rooms** (Networking, DNS, HTTP, Linux & Windows Fundamentals)
 - 💻 Built a custom cyber lab at home: **Kali Linux on UTM**, core tools (Nmap, Netcat, Wireshark), MacOS integration
 - 📘 Studied **Security+ Domain 1–2** topics with Professor Messer videos & Anki flashcards
 - 📝 Maintaining a daily **learning log** and reflecting to improve memory and retention
@@ -49,7 +49,7 @@ I’ve officially completed the entire **TryHackMe Pre-Security Learning Path**,
 - Understand network traffic, protocols, and how systems communicate
 - Prepare for more advanced hands-on rooms and real-world scenarios
 
-📍 What’s Next: Starting **THM Junior Penetration Tester** path + continuing my 16-week roadmap with GitHub projects, Anki flashcards, and scripting labs.
+📍 What’s Next: Starting **THM Junior Penetration Tester** path + continuing my roadmap with GitHub projects, Anki flashcards, and scripting labs.
 
   I’m learning out loud, and this space will grow with me — from theory to tools to real-world experience.
 
