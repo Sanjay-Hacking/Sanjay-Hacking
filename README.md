@@ -55,5 +55,5 @@ I’ve officially completed the entire **TryHackMe Pre-Security Learning Path**,
 
 *Thanks for stopping by. I'm documenting my journey from beginner to Cyber Security pro - let’s connect and learn together!*
 
-🔎 Check out my first reconnaissance project here: [Web Recon Project](https://github.com/Sanjay-Hacking/web-recon-project)
+🔎 Check out my first reconnaissance project here: [Web Recon Project](https://github.com/Sanjay-Hacking/Sanjay-Hacking/tree/main/web-recon-project)
 
