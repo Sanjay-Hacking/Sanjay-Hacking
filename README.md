@@ -23,7 +23,7 @@
 - Security scanning examples with Nmap  
 - Packet captures and analysis using Wireshark  
 - My first Bash script! Completed on Thursday 19 June 2025 🥳 (see details under 'Progress Highlights So Far'
-- - 🕵️‍♂️ Web Recon Project — Nmap, DNS, WHOIS & basic OSINT analysis (completed)
+- 🕵️‍♂️ Web Recon Project — Nmap, DNS, WHOIS & basic OSINT analysis (completed)
 
 ### 🚀 Progress Highlights So Far:
 - 🧠 Completed 25+ hands-on **TryHackMe rooms** (Networking, DNS, HTTP, Linux & Windows Fundamentals)
